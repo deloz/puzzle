@@ -1,6 +1,6 @@
 ## 拼图世界
 
-简单的拼图游戏，快点[这里](https://github.com/deloz)玩玩吧。
+简单的拼图游戏，快点[这里](https://deloz.github.io/puzzle/)玩玩吧。
 
 ### 使用
 1. 安装依赖
